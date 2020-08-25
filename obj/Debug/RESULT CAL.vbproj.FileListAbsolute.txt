@@ -1,0 +1,103 @@
+c:\users\anthony cee\documents\visual studio 2015\Projects\RESULT CAL\RESULT CAL\bin\Debug\RESULT CAL.exe.config
+c:\users\anthony cee\documents\visual studio 2015\Projects\RESULT CAL\RESULT CAL\bin\Debug\RESULT CAL.exe
+c:\users\anthony cee\documents\visual studio 2015\Projects\RESULT CAL\RESULT CAL\bin\Debug\RESULT CAL.pdb
+c:\users\anthony cee\documents\visual studio 2015\Projects\RESULT CAL\RESULT CAL\bin\Debug\RESULT CAL.xml
+c:\users\anthony cee\documents\visual studio 2015\Projects\RESULT CAL\RESULT CAL\obj\Debug\RESULT_CAL.Form1.resources
+c:\users\anthony cee\documents\visual studio 2015\Projects\RESULT CAL\RESULT CAL\obj\Debug\RESULT_CAL.Resources.resources
+c:\users\anthony cee\documents\visual studio 2015\Projects\RESULT CAL\RESULT CAL\obj\Debug\RESULT CAL.vbproj.GenerateResource.Cache
+c:\users\anthony cee\documents\visual studio 2015\Projects\RESULT CAL\RESULT CAL\obj\Debug\RESULT CAL.exe
+c:\users\anthony cee\documents\visual studio 2015\Projects\RESULT CAL\RESULT CAL\obj\Debug\RESULT CAL.xml
+c:\users\anthony cee\documents\visual studio 2015\Projects\RESULT CAL\RESULT CAL\obj\Debug\RESULT CAL.pdb
+C:\Users\Anthony cee\Documents\Visual Studio 2015\Projects\RESULT CAL\RESULT CAL\obj\Debug\RESULT CAL.vbprojResolveAssemblyReference.cache
+C:\Users\Anthony cee\Documents\Visual Studio 2015\Projects\RESULT CAL\RESULT CAL\bin\Debug\MySql.Data.dll
+C:\Users\Anthony cee\Documents\Visual Studio 2015\Projects\RESULT CAL\RESULT CAL\bin\Debug\Google.Protobuf.dll
+C:\Users\Anthony cee\Documents\Visual Studio 2015\Projects\RESULT CAL\RESULT CAL\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Anthony cee\Documents\Visual Studio 2015\Projects\RESULT CAL\RESULT CAL\bin\Debug\Renci.SshNet.dll
+C:\Users\Anthony cee\Documents\Visual Studio 2015\Projects\RESULT CAL\RESULT CAL\obj\Debug\RESULT_CAL.Login.resources
+E:\RESULT CAL - Copy\bin\Debug\RESULT CAL.exe.config
+E:\RESULT CAL - Copy\obj\Debug\RESULT CAL.exe
+E:\RESULT CAL - Copy\obj\Debug\RESULT CAL.xml
+E:\RESULT CAL - Copy\obj\Debug\RESULT CAL.pdb
+E:\RESULT CAL - Copy\bin\Debug\RESULT CAL.exe
+E:\RESULT CAL - Copy\bin\Debug\RESULT CAL.pdb
+E:\RESULT CAL - Copy\bin\Debug\RESULT CAL.xml
+E:\RESULT CAL - Copy\bin\Debug\MySql.Data.dll
+E:\RESULT CAL - Copy\bin\Debug\Google.Protobuf.dll
+E:\RESULT CAL - Copy\bin\Debug\BouncyCastle.Crypto.dll
+E:\RESULT CAL - Copy\bin\Debug\Renci.SshNet.dll
+E:\RESULT CAL - Copy\bin\Debug\MySql.Data.xml
+E:\RESULT CAL - Copy\obj\Debug\RESULT CAL.vbprojResolveAssemblyReference.cache
+E:\RESULT CAL - Copy\obj\Debug\RESULT_CAL.Form1.resources
+E:\RESULT CAL - Copy\obj\Debug\RESULT_CAL.Login.resources
+E:\RESULT CAL - Copy\obj\Debug\RESULT_CAL.Resources.resources
+E:\RESULT CAL - Copy\obj\Debug\RESULT CAL.vbproj.GenerateResource.Cache
+E:\RESULT CAL - Copy\obj\Debug\RESULT_CAL.Register_Form.resources
+E:\VB PROJECTS\RESULT CAL - Copy\bin\Debug\RESULT CAL.exe.config
+E:\VB PROJECTS\RESULT CAL - Copy\obj\Debug\RESULT CAL.exe
+E:\VB PROJECTS\RESULT CAL - Copy\obj\Debug\RESULT CAL.xml
+E:\VB PROJECTS\RESULT CAL - Copy\obj\Debug\RESULT CAL.pdb
+E:\VB PROJECTS\RESULT CAL - Copy\bin\Debug\RESULT CAL.exe
+E:\VB PROJECTS\RESULT CAL - Copy\bin\Debug\RESULT CAL.pdb
+E:\VB PROJECTS\RESULT CAL - Copy\bin\Debug\RESULT CAL.xml
+E:\VB PROJECTS\RESULT CAL - Copy\bin\Debug\MySql.Data.dll
+E:\VB PROJECTS\RESULT CAL - Copy\bin\Debug\Google.Protobuf.dll
+E:\VB PROJECTS\RESULT CAL - Copy\bin\Debug\BouncyCastle.Crypto.dll
+E:\VB PROJECTS\RESULT CAL - Copy\bin\Debug\Renci.SshNet.dll
+E:\VB PROJECTS\RESULT CAL - Copy\bin\Debug\MySql.Data.xml
+E:\VB PROJECTS\RESULT CAL - Copy\obj\Debug\RESULT CAL.vbprojResolveAssemblyReference.cache
+E:\VB PROJECTS\RESULT CAL - Copy\obj\Debug\RESULT_CAL.Form1.resources
+E:\VB PROJECTS\RESULT CAL - Copy\obj\Debug\RESULT_CAL.Login.resources
+E:\VB PROJECTS\RESULT CAL - Copy\obj\Debug\RESULT_CAL.Resources.resources
+E:\VB PROJECTS\RESULT CAL - Copy\obj\Debug\RESULT_CAL.Register_Form.resources
+E:\VB PROJECTS\RESULT CAL - Copy\obj\Debug\RESULT CAL.vbproj.GenerateResource.Cache
+D:\updated project\RESULT CAL - Copy\bin\Debug\RESULT CAL.exe.config
+D:\updated project\RESULT CAL - Copy\obj\Debug\RESULT CAL.exe
+D:\updated project\RESULT CAL - Copy\obj\Debug\RESULT CAL.xml
+D:\updated project\RESULT CAL - Copy\obj\Debug\RESULT CAL.pdb
+D:\updated project\RESULT CAL - Copy\bin\Debug\RESULT CAL.exe
+D:\updated project\RESULT CAL - Copy\bin\Debug\RESULT CAL.pdb
+D:\updated project\RESULT CAL - Copy\bin\Debug\RESULT CAL.xml
+D:\updated project\RESULT CAL - Copy\bin\Debug\MySql.Data.dll
+D:\updated project\RESULT CAL - Copy\bin\Debug\Google.Protobuf.dll
+D:\updated project\RESULT CAL - Copy\bin\Debug\Renci.SshNet.dll
+D:\updated project\RESULT CAL - Copy\bin\Debug\BouncyCastle.Crypto.dll
+D:\updated project\RESULT CAL - Copy\bin\Debug\MySql.Data.xml
+D:\updated project\RESULT CAL - Copy\obj\Debug\RESULT CAL.vbprojResolveAssemblyReference.cache
+D:\updated project\RESULT CAL - Copy\obj\Debug\RESULT_CAL.Form1.resources
+D:\updated project\RESULT CAL - Copy\obj\Debug\RESULT_CAL.Login.resources
+D:\updated project\RESULT CAL - Copy\obj\Debug\RESULT_CAL.Resources.resources
+D:\updated project\RESULT CAL - Copy\obj\Debug\RESULT_CAL.Register_Form.resources
+D:\updated project\RESULT CAL - Copy\obj\Debug\RESULT CAL.vbproj.GenerateResource.Cache
+C:\Users\AnthonyCee\Desktop\updated project\RESULT CAL - Copy\bin\Debug\RESULT CAL.exe.config
+C:\Users\AnthonyCee\Desktop\updated project\RESULT CAL - Copy\obj\Debug\RESULT CAL.exe
+C:\Users\AnthonyCee\Desktop\updated project\RESULT CAL - Copy\obj\Debug\RESULT CAL.xml
+C:\Users\AnthonyCee\Desktop\updated project\RESULT CAL - Copy\obj\Debug\RESULT CAL.pdb
+C:\Users\AnthonyCee\Desktop\updated project\RESULT CAL - Copy\bin\Debug\RESULT CAL.exe
+C:\Users\AnthonyCee\Desktop\updated project\RESULT CAL - Copy\bin\Debug\RESULT CAL.pdb
+C:\Users\AnthonyCee\Desktop\updated project\RESULT CAL - Copy\bin\Debug\RESULT CAL.xml
+C:\Users\AnthonyCee\Desktop\updated project\RESULT CAL - Copy\bin\Debug\Google.Protobuf.dll
+C:\Users\AnthonyCee\Desktop\updated project\RESULT CAL - Copy\bin\Debug\Renci.SshNet.dll
+C:\Users\AnthonyCee\Desktop\updated project\RESULT CAL - Copy\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\AnthonyCee\Desktop\updated project\RESULT CAL - Copy\bin\Debug\MySql.Data.xml
+C:\Users\AnthonyCee\Desktop\updated project\RESULT CAL - Copy\obj\Debug\RESULT_CAL.Form1.resources
+C:\Users\AnthonyCee\Desktop\updated project\RESULT CAL - Copy\obj\Debug\RESULT_CAL.Login.resources
+C:\Users\AnthonyCee\Desktop\updated project\RESULT CAL - Copy\obj\Debug\RESULT_CAL.Resources.resources
+C:\Users\AnthonyCee\Desktop\updated project\RESULT CAL - Copy\obj\Debug\RESULT_CAL.Register_Form.resources
+C:\Users\AnthonyCee\Desktop\updated project\RESULT CAL - Copy\obj\Debug\RESULT CAL.vbproj.GenerateResource.Cache
+C:\Users\AnthonyCee\Desktop\updated project\RESULT CAL - Copy\bin\Debug\Guna.UI.dll
+C:\Users\AnthonyCee\Desktop\updated project\RESULT CAL - Copy\bin\Debug\Guna.UI.pdb
+C:\Users\AnthonyCee\Desktop\updated project\RESULT CAL - Copy\obj\Debug\RESULT_CAL.SUBJECT_LOADER.resources
+C:\Users\AnthonyCee\Desktop\updated project\RESULT CAL - Copy\obj\Debug\RESULT_CAL.Admin_Log.resources
+C:\Users\AnthonyCee\Desktop\updated project\RESULT CAL - Copy\obj\Debug\RESULT_CAL.AdminResult.resources
+C:\Users\AnthonyCee\Desktop\updated project\RESULT CAL - Copy\obj\Debug\RESULT CAL.vbprojAssemblyReference.cache
+C:\Users\AnthonyCee\Desktop\updated project\RESULT CAL - Copy\obj\Debug\RESULT_CAL.AboutBox1.resources
+C:\Users\AnthonyCee\Desktop\updated project\RESULT CAL - Copy\obj\Debug\RESULT CAL.vbproj.CopyComplete
+C:\Users\AnthonyCee\Desktop\updated project\RESULT CAL - Copy\obj\Debug\RESULT_CAL.flash.resources
+C:\Users\AnthonyCee\Desktop\updated project\RESULT CAL - Copy\bin\Debug\RESULT CAL.exe.manifest
+C:\Users\AnthonyCee\Desktop\updated project\RESULT CAL - Copy\bin\Debug\RESULT CAL.application
+C:\Users\AnthonyCee\Desktop\updated project\RESULT CAL - Copy\obj\Debug\RESULT CAL.exe.manifest
+C:\Users\AnthonyCee\Desktop\updated project\RESULT CAL - Copy\obj\Debug\RESULT CAL.application
+D:\PUBLISHED PROJECT\updated project\RESULT CAL - Copy\bin\Debug\RESULT CAL.exe.config
+D:\PUBLISHED PROJECT\updated project\RESULT CAL - Copy\obj\Debug\RESULT CAL.exe
+D:\PUBLISHED PROJECT\updated project\RESULT CAL - Copy\obj\Debug\RESULT CAL.xml
+D:\PUBLISHED PROJECT\updated project\RESULT CAL - Copy\obj\Debug\RESULT CAL.pdb
